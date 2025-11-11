@@ -1,5 +1,7 @@
 def main():
-    print("Hello from kaz-gu!")
+    print("Al-Farabi Kazakh National university!")
+    print("Mechanics and Mathematics")
+    print("Department of Computational Sciences and Statistic")
 
 
 if __name__ == "__main__":

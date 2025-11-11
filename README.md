@@ -1,1 +1,1 @@
-# Вычислительные науки и статистика
+# Computational Sciences and Statistic (Al-Farabi Kazakh National university)
